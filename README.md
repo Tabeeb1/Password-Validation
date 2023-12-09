@@ -1,1 +1,1 @@
-# Password-Validation
+This is a password validation project in assembly language I created for my university course with 2 of my friends, my part was to generate random password which includes lowercase, uppercase, special character and numbers
